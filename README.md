@@ -21,7 +21,8 @@ All you have to do is browse to `/out/artifacts/java_modular_jar/` and download 
 ## How to use the `Modular Calculator`?
 
 This is a simple calculator with just the four basic mathematic operations, a negative/positive inverter and a clear button.
-
+![image](https://user-images.githubusercontent.com/68413884/125963977-6dcaf193-6797-410b-9ab8-4f9264d4bc3e.png)
+![image](https://user-images.githubusercontent.com/68413884/125964087-ed6abcc2-b7fb-41fd-9404-b37ad4ac244a.png)
 
 
 ## Authors
