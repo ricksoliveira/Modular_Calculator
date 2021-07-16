@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="java-modular:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/java_modular_jar</output-path>
+    <root id="archive" name="java-modular.jar">
+      <element id="module-output" name="java-modular" />
+      <element id="module-output" name="digital.innovation.one.core" />
+      <element id="module-output" name="digital.innovation.one.utils" />
+    </root>
+  </artifact>
+</component>
