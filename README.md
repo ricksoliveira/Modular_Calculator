@@ -2,9 +2,9 @@
 
 ## What is `Modular Calculator` ?
 
-This is a simple calculator created using the concept of modules in Java, the objective of this app is just to make sure someone that has access to the View doesn't have access to the core classes and interfaces that in fact makes the calculations.
+This is a simple calculator created using the concept of modules in Java, the objective of this app is just to make sure someone that has access to the View doesn't have access to the core classes and interfaces that in fact makes the calculations.\
 
-\\
+
 
 ## What do you need to use it
 
