@@ -18,7 +18,7 @@ All you have to do is browse to **`/out/artifacts/java_modular_jar/`** and downl
 
 
 
-## How to use `project name`
+## How to use the `Modular Calculator`?
 
 This is a simple calculator with just the four basic mathematic operations, a negative/positive inverter and a clear button.
 
