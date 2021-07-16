@@ -10,13 +10,13 @@ This is a simple calculator created using the concept of modules in Java, the ob
 
 To use it you just need to have Java installed.
 
-<br/><br/>
+<br/>
 
 ## How to install
 
 All you have to do is browse to `/out/artifacts/java_modular_jar/` and download the file `java-modular.jar`. After that, just double-click it.
 
-<br/><br/>
+<br/>
 
 ## How to use the `Modular Calculator`?
 
@@ -24,7 +24,7 @@ This is a simple calculator with just the four basic mathematic operations, a ne
 ![image](https://user-images.githubusercontent.com/68413884/125963977-6dcaf193-6797-410b-9ab8-4f9264d4bc3e.png)
 ![image](https://user-images.githubusercontent.com/68413884/125964087-ed6abcc2-b7fb-41fd-9404-b37ad4ac244a.png)
 
-<br/><br/>
+<br/>
 
 ## Authors
 
